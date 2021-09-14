@@ -2,4 +2,12 @@
 > **准备工作**
 > 
 > 1.创建github账号
-## 第一步：
+## 安装git
+
+## settings中配置git工具
+
+## settings中配置github账号
+
+## commit本地仓库
+
+## push远程仓库
